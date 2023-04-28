@@ -1,4 +1,4 @@
-package OOP;
+package OOPS;
 
 class Parent{
 	int a = 100;

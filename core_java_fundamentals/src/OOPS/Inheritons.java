@@ -1,4 +1,4 @@
-package OOP;
+package OOPS;
 
 class Bank{
 	String Bankname = "HDFC";
