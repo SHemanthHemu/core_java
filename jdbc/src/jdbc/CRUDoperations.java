@@ -14,10 +14,10 @@ public class CRUDoperations {
 	
 	public static void main(String[] args) {
 		DBconnection();
-//		insertdelay(4,"m","abo struck up");
+		insertdelay(5,"ml","pcc scanning issue");
 //		deletedelay (3);
 //		Updatedelay(1,"e",null);
-		createTable ();
+//		createTable ();
 		getDelays();
 		
 		
